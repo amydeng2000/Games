@@ -1,5 +1,5 @@
 # Projects
-Games and projects written in Python and Java in and outside of classes @Berkeley.
+Games and projects written in Python and Java in and outside of class.
 <br /> <br />
 
 ### Game of Hog
