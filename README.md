@@ -11,14 +11,6 @@ A simulation of the dice game Hog.
 * Control statements
 <br /> <br />
 
-### Scheme Interpreter
-An interpreter of a subset of Scheme (dialect of Lisp) built using Python. 
-<br />
-**Key Takeaways:**
-* Design of programming languages
-* Edge cases and testing to account for special scenarios of compliers
-<br /> <br />
-
 ### Ants Game
 A tower defense game built in Python. The player, as the queen ant of the colony, has to deploy the best possible ant and strategically direct the ants to throw leaf or play stunts in order to secure the ant colony. 
 <br />
